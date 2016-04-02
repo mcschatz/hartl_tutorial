@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial: sample application
 
-This app is published at [*Heroku Url*](http://enigmatic-fortress-66152.herokuapp.com/)
+This app is published on Heroku at http://enigmatic-fortress-66152.herokuapp.com/
 
 This is the sample application for the
 [*Ruby on Rails Tutorial:
